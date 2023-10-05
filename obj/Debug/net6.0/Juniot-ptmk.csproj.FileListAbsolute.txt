@@ -1,0 +1,14 @@
+G:\Projects\Juniot-ptmk\bin\Debug\net6.0\Juniot-ptmk.exe
+G:\Projects\Juniot-ptmk\bin\Debug\net6.0\Juniot-ptmk.deps.json
+G:\Projects\Juniot-ptmk\bin\Debug\net6.0\Juniot-ptmk.runtimeconfig.json
+G:\Projects\Juniot-ptmk\bin\Debug\net6.0\Juniot-ptmk.dll
+G:\Projects\Juniot-ptmk\bin\Debug\net6.0\Juniot-ptmk.pdb
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.AssemblyInfoInputs.cache
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.AssemblyInfo.cs
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.csproj.CoreCompileInputs.cache
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.dll
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\refint\Juniot-ptmk.dll
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.pdb
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\Juniot-ptmk.genruntimeconfig.cache
+G:\Projects\Juniot-ptmk\obj\Debug\net6.0\ref\Juniot-ptmk.dll
